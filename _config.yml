@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
@@ -134,3 +135,6 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+=======
+theme: jekyll-theme-cayman
+>>>>>>> b44461e9b0fe5da34e6517e923cf3574547c3d4d

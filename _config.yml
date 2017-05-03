@@ -1,9 +1,9 @@
 # Site settings
 title: A Geek's Perspective
 description: 'Mainly blogging about programming, machine learning, driving assistance systems, self driving cars.'
-#url: 'http://127.0.0.1:4000'
+url: 'http://127.0.0.1:4000'
 url: 'http://mbornoe.github.io'
-baseurl: '/'
+#baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 google_analytics: 'UA-55391789-2'
 # disqus_shortname: 'your-disqus-name'
@@ -30,6 +30,7 @@ paginate: 10
 permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
+future: true
 
 kramdown:
   # use Github Flavored Markdown

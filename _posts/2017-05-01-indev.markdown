@@ -1,0 +1,50 @@
+---
+title:  "In-depth Understanding of Accident Causation for Vulnerable Road Users (InDeV)"
+date:   2017-05-01 15:04:23
+categories: [InDeV, General]
+tags: [InDeV, General]
+---
+My PhD is mainly financed through a European Horizin 2020 project called [In-depth Understanding of Accident Causation for Vulnerable Road Users (InDeV)](http://www.indev-project.eu/InDeV/EN/Home/home_node.html). To give you some idea of what the InDeV project is about, I have copied the introduction from the InDeV webpage.
+
+## Introduction
+*(InDev) is an European research project in the field of road safety, co-funded within the Framework HORIZON2020 by the European Commission. The project answers a call within the workprogramme 2015/2015 and addresses the second bullet point of the topic MG.3.4. id est “… in-depth understanding of road accident causation…”.*
+
+*The main objective of the InDeV project is to contribute to the improvement of Vulnerable Road Users’ (VRU) safety in Europe, by developing an integrated methodology (compiled in a toolbox) for understanding accident causes for VRUs and a framework for good practice for a comprehensive assessment of socio-economic costs related to road-accidents involving VRUs. The tool-box for in-depth analysis of accident causation for VRUs is based on a combined use of accident databases, in-depth accident investigations, surrogate safety indicators, self-reported accidents and naturalistic behavioural data. It will help to link accident causation factors to VRUs’ accident risk, and provide a solid basis for developing preventive countermeasures and a better input for socio-economic cost calculations of VRU accidents. InDeV reveals the causational factors by focusing on the process of accident development, thus overcoming the main weakness of the traditional accident data based approach that might find correlations between various factors and accident frequency, but not show the causation chains. It will employs, to a larger extent, observation of critical traffic events that are similar in process to real accidents, but are relatively more frequent and easier to collect in sufficient quantities. The project has a clear focus on VRUs and the course of events in accidents they get injured in. It provides solid knowledge, helps to avoid a skewed view on the problem of VRUs’ safety, and facilitates the proposed tailor-made countermeasures for these groups. Moreover, with the use of surrogate safety indicators, there will be no need to wait for accidents to happen in order to learn how to prevent them from happening.*
+
+*The InDeV project includes the following steps:*
+
+1. *Review of methods and identification of the critical sites and road user groups (work package 2)*
+2. *Observation studies at the selected sites (work package 3)*
+3. *Development of technical tools for automated behaviour data collection (work package 4)*
+4. *Analysis of the socio-economical costs (work package 5)*
+5. *Compilation of the project results and development of the safety analyst tool-box (work package 6)*
+
+
+I am however not a traffic researcher, hence I am only really involved in workpackage 3 and 4, which are described a little more in detail below.
+
+## Work Package 3
+Something something
+
+## Work Package 4 
+
+## Consortium
+The InDeV project consists of quite a few partners with a quite diverse educational background. The partners are:
+
+- Lund University, Sweden
+- Aalborg University, Denmark
+- Hasselt University, Belgium
+- Polytechnique Montréal, Canada
+- Federal Highway Research Institute (BASt), German
+- Netherlands Organisation for Applied Scientific Research (TNO), The Netherlands
+- INTRA, Ingeniería de Tráfico, Spain
+- Warsaw University of Technology, Poland
+
+In 2016 our annual meeting was held in Barcelona. Below is a group photo, where I am, despite my limited involvement, located in the center, kneeling in a blue shirt. The other guy in a blue shirt kneeling, 2 places to the left, is my PhD supervisor, Professor [Thomas B. Moeslund](http://www.thbm.blog.aau.dk/).
+
+
+![consortium](/images/posts/indev/consortium.jpg)
+
+
+
+
+

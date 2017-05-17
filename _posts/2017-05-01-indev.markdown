@@ -23,9 +23,17 @@ My PhD is mainly financed through a European Horizin 2020 project called [In-dep
 I am however not a traffic researcher, hence I am only really involved in workpackage 3 and 4, which are described a little more in detail below.
 
 ## Work Package 3
-Something something
+The main objective of this WP is to collect and analyse sufficient amounts of field data on the sites with VRU accident accumulation in order to:
+
+-  Work out an optimal strategy for observational field studies for VRU-safety in terms of duration, equipment, set-up, etc.,
+- Calibrate and validate safety surrogates and behavioural indicators against accident statistics and in-depth accidents investigations based on new data.
+- Calibrate and validate the technical tools developed in WP4.
+- Demonstrate the usefulness of the method and identify the most prone VRU safety problems.
+
+My main involvement have been to analyse, design, and create how to to large-scale data collecton in Europe. 
 
 ## Work Package 4 
+This WP is motivated by the need for an automatic system that can ease the task of annotating massive amounts of traffic data. This is highly relevant for WP3, but also for the analysis of traffic data in general. Three systems are to be developed in this WP. The first system is a watchdog system that aims at removing huge chunks of video data where no events/interactions are occurring. This reduces the amount of video data that has to be manually annotated. The second system is a fully automated (next generation) tracking system that keeps track of all objects in the scene and automatically detects traffic events by analysing the trajectories. Lastly, a data collection system (an APP) which automatically detects, e.g., walking/cycling accidents that are not normally reported.
 
 ## Consortium
 The InDeV project consists of quite a few partners with a quite diverse educational background. The partners are:
@@ -34,9 +42,9 @@ The InDeV project consists of quite a few partners with a quite diverse educatio
 - Aalborg University, Denmark
 - Hasselt University, Belgium
 - Polytechnique Montréal, Canada
-- Federal Highway Research Institute (BASt), German
-- Netherlands Organisation for Applied Scientific Research (TNO), The Netherlands
-- INTRA, Ingeniería de Tráfico, Spain
+- The Federal Highway Research Institute (BASt), Germany
+- Netherlands Organisation for Applied Scientific Research (TNO), Netherlands
+- Traffic Engineering (INTRA), Spain
 - Warsaw University of Technology, Poland
 
 In 2016 our annual meeting was held in Barcelona. Below is a group photo, where I am, despite my limited involvement, located in the center, kneeling in a blue shirt. The other guy in a blue shirt kneeling, 2 places to the left, is my PhD supervisor, Professor [Thomas B. Moeslund](http://www.thbm.blog.aau.dk/).

@@ -29,4 +29,4 @@ The training data is mainly from the [LISA Traffic Light dataset](http://cvrr.uc
 
 ## Video
 Below is a video shown of the DaySequence1 from the [LISA Traffic Light dataset](http://cvrr.ucsd.edu/vivachallenge/index.php/traffic-light/traffic-light-detection/), where the model YOLO_V3_1 is used, which was the best performing with an AUC of 90.49 %.
-[![Everything Is AWESOME](https://mbornoe.github.io/images/post/yolo_cvpr_tld/yoloVideoYoutube.png)](https://youtu.be/XtPoE1NuXfA "Everything Is AWESOME")
+[![yolo_video](/images/posts/yolo_cvpr_tld/yoloVideoYoutube.png)](https://youtu.be/XtPoE1NuXfA "yolo_video")

@@ -1,8 +1,8 @@
 # Site settings
 title: A Geek's Perspective
 description: 'Mainly blogging about programming, machine learning, driving assistance systems, self driving cars.'
-#url: 'http://127.0.0.1:4000'
-url: 'http://mbornoe.github.io'
+url: 'http://127.0.0.1:4000'
+#url: 'http://mbornoe.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 google_analytics: 'UA-55391789-2'

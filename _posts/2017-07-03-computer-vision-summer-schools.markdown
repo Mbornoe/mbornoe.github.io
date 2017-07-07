@@ -5,7 +5,7 @@ categories: [Computer Vision, Summer Schools, Deep Learning]
 tags: [Computer Vision, Summer Schools, Deep Learning]
 ---
 
-Each summer a lot of different summer schools are held across the world. In Denmark a student needs to pass a number of PhD courses totalling up to 30 ECTS, usually these PhD courses are held at the universities and are between 0.5 ECTS and 4 ECTS. Attending a summer school can also be considered a PhD course and can, depending on the length of the summer school, be worth of 4-5 ECTS, which is a quite neat and intensive way to gain some "easy" ECTS whilst combining it with some sommer holiday as it often held at cool location, e.g. Bilbao, Montreal, Sicily, etc.. 
+Each summer a lot of different summer schools are held across the world. In Denmark a PhD student needs to pass a number of PhD courses totalling up to 30 ECTS, usually these PhD courses are held at the universities and are between 0.5 ECTS and 4 ECTS. Attending a summer school can also be considered a PhD course and can, depending on the length of the summer school, be worth of 4-5 ECTS, which is a quite neat and intensive way to gain some "easy" ECTS whilst combining it with some sommer holiday as it often held at cool location, e.g. Bilbao, Montreal, Sicily, etc.. 
 
 I have tried to make an overview of some of the summer schools that could be relavant to me as a  Computer Vision PhD. 
 

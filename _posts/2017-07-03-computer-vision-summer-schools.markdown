@@ -20,6 +20,7 @@ I have tried to make an overview of some of the summer schools that could be rel
 | [International Summer School on Deep Learning (DeepLearn)](http://grammars.grlmc.com/DeepLearn2017/)                | July 17th — 21st, 2017      | Bilbao, Spain       | July 17th, 2017         | 310 - 520   |
 | [Vision and Sports Summer School (VS)](http://cmp.felk.cvut.cz/summerschool2017/)                                   | August 21st - 26th, 2017    | Prague, Czech Republic| May 19th, 2017        | 370         |
 | [Robotic Vision Summer School (RVSS)](https://www.roboticvision.org/rv_event/robotic-vision-summer-school-rvss-2018/)| February 4th - 9th  2018   |  Kioloa, Australia  | ?                       | ?           |
+| [Advanced Topics in Machine Learning](http://www2.compute.dtu.dk/courses/02901/) | August 28th - September 1st, 2017 | Copenhagen, Denmark | June 30th, 2017 | 1110 |
 
 I applied to the DLSS and RLSS (Attending in both is only €460 ) held in Montreal, Canada, but did unfortunately not get accepted to particpate in it, which was quite disappointing. Ideally I wanted to attend a summer school this year, but as I am also attending CVPR which is overlapping with most of the other interesting summer school, I will have to wait to next year.
 
